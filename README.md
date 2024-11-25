@@ -1,2 +1,1 @@
-# git-pg
-git-pg
+v1.0
